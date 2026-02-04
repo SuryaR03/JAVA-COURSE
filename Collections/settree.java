@@ -16,12 +16,28 @@ public class settree {
         System.out.println("Floor value "+s.floor(3));
         System.out.println("higher in set "+s.higher(5));
         System.out.println("Lower in set "+s.lower(5));
-        System.out.println("starting values in set "+s.headSet(7,true));
-        System.out.println("Ending values in set "+s.tailSet(5));
-        System.out.println("Elements in set "+s.subSet(5,7));
+        System.out.println("starting values in set "+s.headSet(7,true));     //default false for head
+        System.out.println("Ending values in set "+s.tailSet(5));            //default true for tail
+        System.out.println("Elements in set "+s.subSet(5,7));               //give the range
 
+        Iterator<Integer> itr = s.iterator();
+        while(itr.hasNext()){
+            Integer num=itr.next();
+            System.out.println(num);
 
-
+        }
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
         //System.out.println("pollfirst in set "+s.pollFirst());
         //System.out.println("polllast in set "+s.pollLast());
     }
