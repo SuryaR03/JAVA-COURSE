@@ -12,9 +12,9 @@ public class Maphash{
 
         System.out.println("All reg no :"+num);
 
-        System.out.println("key :"+num.keySet());           //key value
+        System.out.println("key :"+num.keySet());           //return key value
 
-        System.err.println("values :"+num.values());         //values
+        System.err.println("values :"+num.values());         //return values
 
         System.err.println("Entries: "+ num.entrySet());        //key with values
 
@@ -24,10 +24,6 @@ public class Maphash{
  
         System.err.println("Entries: "+ num.replace("reg2",6));        //replace
         
-        System.err.println("Entries: "+ num.keySet());
-        
-        System.err.println("Entries: "+ num.values());
-
         int value = num.remove("reg3");
         System.err.println("removed value : "+value);
     }
