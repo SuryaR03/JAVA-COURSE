@@ -8,3 +8,4 @@
 **03/02/26** - clg -matrice  
 **04/02/26** - clg-TreeSet
 **05/02/2026** - clg - treemap,mapiterator
+**09/02/2026** - clg -hasmap convert
