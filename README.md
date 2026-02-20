@@ -11,3 +11,5 @@
 **09/02/2026** - clg -hasmap convert  
 **11/02/2026** - revise  
 **16/02/2026** - common elements in array
+**18/02/2026** - queue,deque,insert
+**20/02/2026** - CIA exams
