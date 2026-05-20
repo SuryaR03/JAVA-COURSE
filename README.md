@@ -10,9 +10,9 @@
 **05/02/2026** - clg - treemap,mapiterator  
 **09/02/2026** - clg -hasmap convert  
 **11/02/2026** - revise  
-**16/02/2026** - common elements in array
-**18/02/2026** - queue,deque,insert
-**20/02/2026** - CIA exams
+**16/02/2026** - common elements in array  
+**18/02/2026** - queue,deque,insert  
+**20/02/2026** - CIA exams  
 **22/02/2026** - module 7 study  
 **12/03/2026** - In clg p,np classes studied  
 **20/05/2026** - Day 2 "reverse,factorial,fibonnaci"  
