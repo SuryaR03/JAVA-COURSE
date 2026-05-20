@@ -15,3 +15,5 @@
 **20/02/2026** - CIA exams
 **22/02/2026** - module 7 study  
 **12/03/2026** - In clg p,np classes studied  
+**20/05/2026** - Day 2 "reverse,factorial,fibonnaci"  
+**20/05/2026** - Day 3 "factors , allfactors , armstrong"  
